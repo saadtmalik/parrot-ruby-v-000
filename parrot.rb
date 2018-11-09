@@ -4,6 +4,6 @@
 
 def parrot (phrase = "Squawk!")
   prints "#{phrase}"
-  phrase = "Pretty bird!"
   "Squawk!"
+  phrase = "Pretty bird!"
 end
